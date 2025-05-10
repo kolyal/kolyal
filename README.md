@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=F7DF1E&width=435&lines=Hello%2C+I'm+Nikolay+%F0%9F%91%8B;Welcome+to+my+profile!" alt="Typing SVG" />
+
 <!--
 **kolyal/kolyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
