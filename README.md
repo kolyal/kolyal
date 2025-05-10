@@ -35,8 +35,8 @@
 
 ### 📬 Связь со мной
 
-- ✉️ **Почта:** [xxx@gmail.com](mailto:knaumov2005@gmail.com)
-- 💬 **Telegram:** [https://t.me/xxx](https://t.me/Kolyayay)
+- ✉️ **Почта:** [knaumov2005@gmail.com](mailto:knaumov2005@gmail.com)
+- 💬 **Telegram:** [https://t.me/Kolyayay](https://t.me/Kolyayay)
 
 
 
