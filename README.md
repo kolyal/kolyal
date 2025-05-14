@@ -1,6 +1,6 @@
 ## Hello, I'm Nikolay👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=FFFFFF&width=435&lines=Data+Scientist;ML Engineer" alt="Typing SVG" />  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=FFFFFF&width=435&lines=Data+Scientist;ML+Engineer" alt="Typing SVG" />  
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
